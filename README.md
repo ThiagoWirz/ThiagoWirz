@@ -13,10 +13,10 @@
 - 😄 Pronouns: He/His
 
 ### Connect with me:
-![Thiago Wirz de Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoWirz&show_icons=true&theme=radical)
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thiagoWirz)  
+
+
+![Thiago Wirz de Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoWirz&show_icons=true&theme=radical)
 
 
 
