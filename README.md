@@ -11,7 +11,7 @@
 ### Connect with me:
 
 <a href="https://github.com/ThiagoWirz" target="_blank"> <img align="left" alt="gitHub"  width="50em" src="https://raw.githubusercontent.com/ThiagoWirz/ThiagoWirz/main/icons/github.svg" /> </a>
-<a href="www.linkedin.com/in/thiagowirz" target="_blank"> <img align="left" alt="LinkedIn"  width="50em" src="https://raw.githubusercontent.com/ThiagoWirz/ThiagoWirz/main/icons/linkedin.svg" /> </a>
+<a href="https://www.linkedin.com/in/thiagowirz" target="_blank"> <img align="left" alt="LinkedIn"  width="50em" src="https://raw.githubusercontent.com/ThiagoWirz/ThiagoWirz/main/icons/linkedin.svg" /> </a>
 </br>
 </br>
 
